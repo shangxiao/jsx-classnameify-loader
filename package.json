@@ -1,0 +1,23 @@
+{
+  "name": "jsx-classnameify-loader",
+  "version": "0.1.0",
+  "description": "Conver class -> className",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rapilabs/jsx-classnameify-loader"
+  },
+  "keywords": [
+    "webpack",
+    "jsx"
+  ],
+  "author": "David Sanders",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rapilabs/jsx-classnameify-loader/issues"
+  },
+  "homepage": "https://github.com/rapilabs/jsx-classnameify-loader"
+}
