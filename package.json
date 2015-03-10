@@ -1,7 +1,7 @@
 {
   "name": "jsx-classnameify-loader",
+  "version": "0.2.0",
   "description": "Converts class -> className, for -> htmlFor and any other lowercase attributes that are required to be in camel case",
-  "version": "0.1.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
